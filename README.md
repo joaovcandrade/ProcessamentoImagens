@@ -50,7 +50,7 @@ O projeto possui as seguintes funcionalidades:
 
 Para instalar as dependências do projeto, siga os passos abaixo:
 
-Certifique-se de que você tem o Python 3.7 ou superior instalado na sua máquina. Você precisa ter o pip instalado. Você pode verificar a versão do Python e pip com o comando:
+Certifique-se de que você tem o Python 3.11.3 ou superior instalado na sua máquina. Você precisa ter o pip 23.1.2 instalado. Você pode verificar a versão do Python e pip com o comando:
 
 ```bash
 python --version
