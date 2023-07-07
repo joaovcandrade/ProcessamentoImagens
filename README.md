@@ -2,6 +2,7 @@
 # Projeto de diagnóstico de doenças respiratórias usando imagens de raio-X de tórax e aprendizado de máquina
 
 O Projeto encontra-se no seguinte repositório [Github link](https://github.com/joaovcandrade/ProcessamentoImagens)
+O vídeo encontra-se [aqui](https://drive.google.com/file/d/1k0SzwtVTffIfexHASXa2C9N77ZCmU7HU/view?usp=sharing)
 
 Este projeto usa diferentes modelos de aprendizado de máquina para rotular imagens de raio-X de tórax em quatro grupos: COVID-19, Normal, Pneumonia-Bacterial e Pneumonia-Viral. O projeto dá a opção de selecionar o classificador que se quer utilizar e realiza automaticamente o acerto dos hiper-parâmetros. Além disso, este projeto combina diversas técnicas de extração.
 
