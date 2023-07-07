@@ -32,7 +32,7 @@ Este projeto é o projeto final da disciplina de Processamento de Imagens UTFPR 
 ## Dataset e Referência
 
  - [Dataset 3 kinds of Pneumonia](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia?resource=download)
- - [Instruções de projeto final](https://github.com/matiassingers/awesome-readme)
+ - [Instruções de projeto final]([https://github.com/matiassingers/awesome-readme](https://github.com/joaovcandrade/ProcessamentoImagens/blob/main/Projeto%20Final%20-%20Processamento%20de%20Imagens.pdf)
  
 
 ## Funcionalidades
@@ -43,7 +43,7 @@ O projeto possui as seguintes funcionalidades:
 - Codificar os rótulos das imagens em classes únicas;
 - Extrair características HOG, textura e de forma das imagens;
 - Dividir o dataset em conjuntos de treino e teste;
-- Fazer o tunning e avaliar os modelos XGBoost, KNN, SVM e MLP usando Grid Search;
+- Fazer o tunning e avaliar os modelos XGBoost, KNN, SVM usando Grid Search ;
 - Plotar a matriz de confusão e calcular a acurácia dos modelos.
 
 ## Instalação e execução
@@ -60,7 +60,7 @@ pip --version
 Clone este repositório ou faça o download do código-fonte. Você pode clonar o repositório com o comando:
 
 ```bash
-git clone https://github.com/fulano/projeto.git
+git clone https://github.com/joaovcandrade/ProcessamentoImagens.git
 ```
 
 Instale o dataset disponível neste [link](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia?resource=download) e extraia seu conteúdo na pasta img. Seu diretório deverá se parecer com isto
