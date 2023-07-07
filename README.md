@@ -91,7 +91,7 @@ O projeto é interativo e permite que você escolha qual modelo de aprendizado d
 
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
-- Python 3.7
+- Python 3.11.3
 - OpenCV
 - NumPy
 - Scikit-image
