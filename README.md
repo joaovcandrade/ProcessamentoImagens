@@ -32,7 +32,7 @@ Este projeto é o projeto final da disciplina de Processamento de Imagens UTFPR 
 ## Dataset e Referência
 
  - [Dataset 3 kinds of Pneumonia](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia?resource=download)
- - [Instruções de projeto final]([https://github.com/matiassingers/awesome-readme](https://github.com/joaovcandrade/ProcessamentoImagens/blob/main/Projeto%20Final%20-%20Processamento%20de%20Imagens.pdf)
+ - [Instruções de projeto final](https://github.com/joaovcandrade/ProcessamentoImagens/blob/main/Projeto%20Final%20-%20Processamento%20de%20Imagens.pdf)
  
 
 ## Funcionalidades
