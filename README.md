@@ -67,7 +67,7 @@ Clone este repositório ou faça o download do código-fonte. Você pode clonar 
 git clone https://github.com/joaovcandrade/ProcessamentoImagens.git
 ```
 
-Instale o dataset disponível neste [link](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia?resource=download) e extraia seu conteúdo na pasta img. Seu diretório deverá se parecer com isto
+Baixe o dataset disponível neste [link](https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia?resource=download), crie uma pasta img na raiz do projeto e extraia seu conteúdo na pasta. Seu diretório deverá se parecer com isto
 ```bash
 img
 ├── COVID-19
